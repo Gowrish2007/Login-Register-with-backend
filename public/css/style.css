@@ -1,0 +1,16 @@
+body{
+    background:#f5f7fa;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+.container{
+    margin-top:120px;
+}
+
+h1{
+    font-weight:bold;
+}
+
+.btn{
+    width:150px;
+}
